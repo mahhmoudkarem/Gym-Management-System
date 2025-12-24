@@ -1,6 +1,6 @@
 # GymManagementSystem 🏋️‍♂️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MK](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **GymManagementSystem** is a comprehensive **Gym Management System** designed for administrators to manage **Members, Trainers, Plans, Memberships, Sessions, and Schedules**.  
 This system focuses on **role-based access**, **membership management**, **session tracking**, and **trainer management**.
@@ -109,4 +109,4 @@ This system focuses on **role-based access**, **membership management**, **sessi
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Mahmoud Karem License - see the [LICENSE](LICENSE) file for details.
